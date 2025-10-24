@@ -2,6 +2,11 @@
 
 A Model Context Protocol (MCP) server that enables AI assistants to download files from URLs to the local filesystem.
 
+<a href="https://glama.ai/mcp/servers/@dmitryglhf/url-download-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@dmitryglhf/url-download-mcp/badge" alt="mcp-ping MCP server" />
+</a>
+
+
 ## Features
 
 - Download single or multiple files from URLs with concurrent support
